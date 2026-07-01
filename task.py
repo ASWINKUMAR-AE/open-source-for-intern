@@ -50,8 +50,8 @@ def divide_numbers(a, b):
 
 
 # -------------------------------
-# 5. Find Square of a Number
-# -------------------------------
+# 5. Find Square of
+# -----------------------------
 def find_square(number):
     # Task:
     # Input: one number
