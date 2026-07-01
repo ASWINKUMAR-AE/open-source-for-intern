@@ -58,7 +58,7 @@ def find_square(number):
     # Process: Multiply the number by itself
     # Output: Return the square value
     # Example: 4 -> 16
-    pass
+    return number * number
 
 
 # -------------------------------
